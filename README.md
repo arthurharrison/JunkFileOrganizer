@@ -6,5 +6,6 @@
 ### What's it and What's left to do? 
 * It gets your files in your desired location (it's set to the current location as default) and re-arrange your files based in its extension;
 
+How to run this.
 
 
